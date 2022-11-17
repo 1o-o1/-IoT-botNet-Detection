@@ -10,5 +10,5 @@ carried by 2 botnets. Next step, shuffle the whole dataset and distinguish outpu
 Normalization and one-hot encoding have been applied to label multiple classes. After 
 finishing the preprocessing, ML classifiers used for multi-class classification. As a matter
  of fact, The dataset can be used for multi-class classification : 10 classes of attacks
- plus one class of benign. Number of Instances of the dataset is 7062606, while the ""Real
-number of attributes"" are 115.
+ plus one class of benign. Number of Instances of the dataset is 7062606, while the "Real
+number of attributes" are 115.
